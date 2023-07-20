@@ -10,16 +10,16 @@ export default function Welcome(){
    <View style={styles.container}>
 
     <View style={styles.containerLogo}>
-      <Animatable.Image animation={"flipInY"} source={require('../../assets/logo.jpg')} style={{width: '100%'}} resizeMode='contain'>
+      <Animatable.Image animation={"flipInY"} source={require('../../assets/logoLucas.png')} style={{width: '300%'}} resizeMode='contain'>
       </Animatable.Image>
       <Animatable.Text animation={"fadeInUp"} delay={100} style={styles.textLogo}>
-        Bem-vindo ao Pescante
+        
       </Animatable.Text>
     </View>
 
     <Animatable.View delay={300} animation={"fadeInUp"} style={styles.containerForm}>
       <Text style={styles.title}>
-        Monitore e organize seus custos
+        Monitore e organize seus custos e lucro de forma simples e rápida
       </Text>
       <Text style={styles.text}>
         Faça o login para começar
@@ -42,28 +42,35 @@ const styles = StyleSheet.create({
     backgroundColor:'#38a69d'
   },
   containerLogo:{
-    flex:3,
-    backgroundColor:'#38a69d',
+    flex:2,
+    backgroundColor:'#fff',
     justifyContent:'center',
-    alignItems:'center'
+    alignItems:'center',
+    paddingTop: '20%',
+    borderTopLeftRadius:25,
+    borderTopRightRadius:25,
   },
   containerForm:{
     flex:2,
     backgroundColor:'#fff',
-    borderTopLeftRadius:25,
-    borderTopRightRadius:25,
     paddingStart:'5%',
     paddingEnd:'5%'
   },
   title:{
     fontSize:24,
     fontWeight:'bold',
-    marginTop:48,
-    marginBottom:28
+    marginTop:18,
+    marginBottom:28,
+    marginHorizontal:'3%',
+    textAlign:'center'
   },
   text:{
     color:'#a0a0a0',
-    fontSize:18
+    fontSize:18,
+    marginTop:48,
+    marginBottom:28,
+    marginHorizontal:'3%',
+    textAlign:'center'
   },
   textLogo:{
     fontSize:40,

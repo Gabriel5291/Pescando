@@ -70,7 +70,7 @@ export default function Data() {
          Informação
         </Text>
  
-        <TouchableOpacity style={styles.button} onPress={ () => navigation.navigate('Home')}>
+        <TouchableOpacity style={styles.button} onPress={ () => navigation.navigate('Welcome')}>
           <Text style={styles.buttonText}>
            Sair
           </Text>

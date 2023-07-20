@@ -23,7 +23,7 @@ export default function SignIn(){
       <Text style={styles.tittle}>Senha</Text>
       <TextInput placeholder="Digite sua senha" style={styles.input}/>
 
-      <TouchableOpacity style={styles.button}>
+      <TouchableOpacity onPress={ () => navigation.navigate('Home')} style={styles.button}>
         <Text style={styles.buttonText}>Acessar</Text>
       </TouchableOpacity>
 

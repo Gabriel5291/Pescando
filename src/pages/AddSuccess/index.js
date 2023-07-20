@@ -12,7 +12,7 @@ export default function AddSuccess() {
 
     <Animatable.View delay={50} animation={"fadeInUp"} style={styles.viewContent}>
 
-        <Text style={styles.text}>
+        <Text style={styles.title}>
         Dados adicionados com sucesso!
         </Text>
 
@@ -63,10 +63,19 @@ const styles = StyleSheet.create({
         fontWeight:'bold',
     },
     text:{
-        fontSize:23,
+        fontSize:18,
         fontWeight:'bold',
         marginHorizontal:20,
         textAlign:'center',
-        marginBottom:50
+        marginBottom:40,
+        color: '#a1a1a1'
+    },
+    title:{
+      fontSize:24,
+      fontWeight:'bold',
+      marginTop:18,
+      marginBottom:40,
+      marginHorizontal:'3%',
+      textAlign:'center'
     }
 })
