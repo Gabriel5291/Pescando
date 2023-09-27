@@ -1,0 +1,276 @@
+[
+  {
+    "id": 1,
+    "especie": "Roe deer",
+    "gender": "Non-binary",
+    "data": "7/1/2023"
+  },
+  {
+    "id": 2,
+    "especie": "Carmine bee-eater",
+    "gender": "Male",
+    "data": "11/27/2022"
+  },
+  {
+    "id": 3,
+    "especie": "Yellow mongoose",
+    "gender": "Male",
+    "data": "9/4/2024"
+  },
+  { "id": 4, "especie": "Boar, wild", "gender": "Male", "data": "1/5/2023" },
+  {
+    "id": 5,
+    "especie": "Black and white colobus",
+    "gender": "Female",
+    "data": "5/28/2024"
+  },
+  {
+    "id": 6,
+    "especie": "Cormorant, great",
+    "gender": "Male",
+    "data": "9/12/2024"
+  },
+  {
+    "id": 7,
+    "especie": "Roseat flamingo",
+    "gender": "Female",
+    "data": "7/26/2024"
+  },
+  {
+    "id": 8,
+    "especie": "Stanley crane",
+    "gender": "Female",
+    "data": "7/27/2024"
+  },
+  {
+    "id": 9,
+    "especie": "Fowl, helmeted guinea",
+    "gender": "Female",
+    "data": "11/10/2024"
+  },
+  {
+    "id": 10,
+    "especie": "Red-necked phalarope",
+    "gender": "Female",
+    "data": "5/10/2023"
+  },
+  {
+    "id": 11,
+    "especie": "Tenrec, tailless",
+    "gender": "Female",
+    "data": "11/30/2022"
+  },
+  {
+    "id": 12,
+    "especie": "Trotter, lily",
+    "gender": "Female",
+    "data": "5/9/2024"
+  },
+  {
+    "id": 13,
+    "especie": "American buffalo",
+    "gender": "Male",
+    "data": "5/9/2023"
+  },
+  {
+    "id": 14,
+    "especie": "Weeper capuchin",
+    "gender": "Male",
+    "data": "10/3/2024"
+  },
+  {
+    "id": 15,
+    "especie": "Wagtail, african pied",
+    "gender": "Female",
+    "data": "1/25/2025"
+  },
+  {
+    "id": 16,
+    "especie": "Desert spiny lizard",
+    "gender": "Female",
+    "data": "3/15/2025"
+  },
+  {
+    "id": 17,
+    "especie": "Crested barbet",
+    "gender": "Male",
+    "data": "2/12/2024"
+  },
+  {
+    "id": 18,
+    "especie": "Indian red admiral",
+    "gender": "Male",
+    "data": "4/21/2025"
+  },
+  {
+    "id": 19,
+    "especie": "Lesser masked weaver",
+    "gender": "Bigender",
+    "data": "11/7/2022"
+  },
+  {
+    "id": 20,
+    "especie": "Common mynah",
+    "gender": "Male",
+    "data": "1/28/2023"
+  },
+  {
+    "id": 21,
+    "especie": "Eastern dwarf mongoose",
+    "gender": "Female",
+    "data": "7/6/2023"
+  },
+  {
+    "id": 22,
+    "especie": "Bird, black-throated butcher",
+    "gender": "Female",
+    "data": "11/5/2023"
+  },
+  {
+    "id": 23,
+    "especie": "Quoll, eastern",
+    "gender": "Female",
+    "data": "2/13/2025"
+  },
+  {
+    "id": 24,
+    "especie": "Rainbow lory",
+    "gender": "Male",
+    "data": "2/14/2023"
+  },
+  {
+    "id": 25,
+    "especie": "Bear, sloth",
+    "gender": "Female",
+    "data": "12/4/2022"
+  },
+  {
+    "id": 26,
+    "especie": "Whale, killer",
+    "gender": "Female",
+    "data": "11/23/2023"
+  },
+  {
+    "id": 27,
+    "especie": "Nile crocodile",
+    "gender": "Male",
+    "data": "5/1/2024"
+  },
+  {
+    "id": 28,
+    "especie": "Egret, cattle",
+    "gender": "Male",
+    "data": "4/25/2025"
+  },
+  { "id": 29, "especie": "Rock dove", "gender": "Female", "data": "5/9/2023" },
+  {
+    "id": 30,
+    "especie": "Screamer, crested",
+    "gender": "Female",
+    "data": "8/3/2024"
+  },
+  {
+    "id": 31,
+    "especie": "Porcupine, african",
+    "gender": "Female",
+    "data": "6/17/2023"
+  },
+  {
+    "id": 32,
+    "especie": "Pale-throated three-toed sloth",
+    "gender": "Female",
+    "data": "10/5/2022"
+  },
+  {
+    "id": 33,
+    "especie": "North American porcupine",
+    "gender": "Female",
+    "data": "2/25/2024"
+  },
+  {
+    "id": 34,
+    "especie": "Vulture, white-headed",
+    "gender": "Female",
+    "data": "5/30/2024"
+  },
+  {
+    "id": 35,
+    "especie": "Vulture, oriental white-backed",
+    "gender": "Male",
+    "data": "11/30/2022"
+  },
+  {
+    "id": 36,
+    "especie": "Coatimundi, white-nosed",
+    "gender": "Female",
+    "data": "10/22/2024"
+  },
+  {
+    "id": 37,
+    "especie": "Blue waxbill",
+    "gender": "Female",
+    "data": "2/20/2023"
+  },
+  {
+    "id": 38,
+    "especie": "Hanuman langur",
+    "gender": "Female",
+    "data": "12/2/2023"
+  },
+  {
+    "id": 39,
+    "especie": "Rattlesnake, horned",
+    "gender": "Male",
+    "data": "11/12/2024"
+  },
+  {
+    "id": 40,
+    "especie": "Lesser double-collared sunbird",
+    "gender": "Female",
+    "data": "12/31/2022"
+  },
+  {
+    "id": 41,
+    "especie": "Bohor reedbuck",
+    "gender": "Female",
+    "data": "4/11/2024"
+  },
+  {
+    "id": 42,
+    "especie": "Crocodile, nile",
+    "gender": "Female",
+    "data": "12/22/2022"
+  },
+  {
+    "id": 43,
+    "especie": "White-fronted bee-eater",
+    "gender": "Male",
+    "data": "4/15/2025"
+  },
+  {
+    "id": 44,
+    "especie": "Steenbuck",
+    "gender": "Polygender",
+    "data": "12/4/2024"
+  },
+  { "id": 45, "especie": "Guerza", "gender": "Female", "data": "2/7/2023" },
+  {
+    "id": 46,
+    "especie": "Blue shark",
+    "gender": "Female",
+    "data": "4/23/2024"
+  },
+  {
+    "id": 47,
+    "especie": "Bandicoot, short-nosed",
+    "gender": "Male",
+    "data": "10/13/2024"
+  },
+  {
+    "id": 48,
+    "especie": "Armadillo, nine-banded",
+    "gender": "Female",
+    "data": "12/7/2022"
+  },
+  { "id": 49, "especie": "Klipspringer", "gender": "Male", "data": "1/1/2023" }
+]
